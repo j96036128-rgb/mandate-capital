@@ -1,5 +1,5 @@
 /**
- * Mandate Capital — Main JavaScript
+ * Axis Allocation — Main JavaScript
  * Plain vanilla JS, no frameworks
  */
 

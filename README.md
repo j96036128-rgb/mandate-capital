@@ -1,10 +1,10 @@
-# Mandate Capital
+# Axis Allocation
 
 Structured capital mandate intake website for institutional and qualified investors.
 
 ## Overview
 
-Mandate Capital is a static website for collecting structured capital mandates across property, private credit, special situations, and structured equity. The site charges a £500 engagement deposit for review priority.
+Axis Allocation is a static website for collecting structured capital mandates across property, private credit, special situations, and structured equity. The site charges a £500 engagement deposit for review priority.
 
 **This is NOT:**
 - A broker or intermediary
@@ -15,7 +15,7 @@ Mandate Capital is a static website for collecting structured capital mandates a
 ## Structure
 
 ```
-MandateCapital/
+AxisAllocation/
 ├── index.html              # Home page
 ├── how-it-works.html       # Process explanation
 ├── submit-mandate.html     # Mandate submission form
@@ -33,7 +33,7 @@ MandateCapital/
 
 ### Option 1: Root of Repository
 
-1. Create a new GitHub repository (e.g., `mandate-capital` or `mandatecapital.github.io`)
+1. Create a new GitHub repository (e.g., `axis-allocation` or `axisallocation.github.io`)
 2. Push all files to the `main` branch
 3. Go to repository Settings → Pages
 4. Under "Source", select `main` branch and `/ (root)` folder
@@ -45,7 +45,7 @@ MandateCapital/
 1. Complete Option 1 steps
 2. Create a file named `CNAME` in root with your domain:
    ```
-   mandatecapital.co.uk
+   axisallocation.co.uk
    ```
 3. Configure DNS with your domain provider:
    - For apex domain: Add A records pointing to GitHub Pages IPs
@@ -112,7 +112,7 @@ Edit CSS variables in `assets/css/styles.css`:
 
 ### Contact Email
 
-Update `enquiries@mandatecapital.co.uk` in:
+Update `enquiries@axisallocation.co.uk` in:
 - Footer of all HTML pages
 - Terms of Service
 - Privacy Policy
@@ -127,4 +127,4 @@ Update `enquiries@mandatecapital.co.uk` in:
 
 ## License
 
-All rights reserved. This code is provided for the exclusive use of Mandate Capital.
+All rights reserved. This code is provided for the exclusive use of Axis Allocation.
